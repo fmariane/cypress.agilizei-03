@@ -1,4 +1,4 @@
-# Semana Agilizei 3.0 -> "Cypress: do Zero ao Report"
+# Semana Agilizei 3.0 -> "Cypress: do Zero à Integração Contínua"
 
 Semana de imersão no uso do framework Cypress para automação de testes. Evento promovido pelo Samuel Lucas do [canal Agilizei](https://www.youtube.com/channel/UCI_m5uwJjfD7trqcwAB8E3w)
 
